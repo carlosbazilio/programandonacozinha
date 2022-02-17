@@ -1,0 +1,10 @@
+[book]
+authors = ["bazilio"]
+language = "pt-br"
+multilingual = false
+src = "src"
+title = "Programando na Cozinha"
+
+[output.html]
+fold.enable = true
+fold.level = 0
