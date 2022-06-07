@@ -29,6 +29,7 @@
         - [Programação Funcional](conceitos-avancados/paradigmas/prog-funcional.md)
         - [Programação Lógica](conceitos-avancados/paradigmas/prog-logica.md)
         - [Programação Orientada a Objetos](conceitos-avancados/paradigmas/prog-oo.md)
+        - [Programação Orientada a Aspectos](conceitos-avancados/paradigmas/prog-aspectos.md)
     - [Padrões](conceitos-avancados/padroes.md)
     - [Programação Genérica](conceitos-avancados/prog-generica.md)
     - [APIs](conceitos-avancados/apis.md)

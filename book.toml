@@ -6,5 +6,10 @@ src = "src"
 title = "Programando na Cozinha"
 
 [output.html]
+theme = "rust"
 fold.enable = true
 fold.level = 0
+git-repository-url = "https://github.com/carlosbazilio/programandonacozinha"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/carlosbazilio/programandonacozinha/edit/main/{path}"
+site-url = "/programandonacozinha/"
