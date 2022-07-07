@@ -1,0 +1,9 @@
+# Sistemas de Recomendação
+
+![](../assets/sistema-recomendacao.jpg)
+
+Hoje em dia, sempre que entramos em algum serviço online para consumo de informação, como redes sociais e serviços de _streaming_ (filmes, músicas, etc), recebemos um monte de recomendações do que devemos dar atenção. Estas recomendações são criadas por algoritmos a partir de informações diversas, como conteúdos consumidos por perfis similares ao do usuário, conteúdos mais acessados numa dada região e conteúdos patrocinados. 
+
+Em nosso livro, uma analogia interessante ocorre em restaurantes na divulgação dos chamados "Prato do Dia". Para quem já parou para pensar a respeito, já deve ter concluído que o perfil do usuário não é muito levado em consideração na construção do prato do dia. Isto porque o restaurante precisaria ter um histórico prévio grande da preferência dos seus potenciais clientes para, em função disso, tentar deduzir o que o cliente, ou a maioria deles, deseja comer numa dado dia. O mais comum na construção dessas recomendações deve ser uma combinação de oferta em excesso dos ingredientes básicos para um preparo combinado com os pratos típicos preparados nesse restaurante. 
+
+Em ambos os cenários (restaurantes e serviços online) percebemos com essas recomendações uma possibilidade de se induzir o público para o que os detentores do serviço entendem que deveria ser consumido. Se a gente pensa em pratos com uma distribuição equilibrada entre proteínas e carboidratos, por exemplo, estamos induzindo a uma alimentação mais saudável. Entretanto, nada impede que exatamente o contrário possa ser induzido. Imaginemos o quão desinteressante é para uma indústria do gênero alimentício se restaurantes passassem a não recomendar seus produtos? Essa é a grande questão ética e de impacto relacionada a sistemas de recomendação.

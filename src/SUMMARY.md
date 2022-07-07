@@ -42,4 +42,5 @@
     - [Banco de Dados](conceitos-avancados/bd.md)
     - [Desenvolvimento Ágil](conceitos-avancados/agil.md)
     - [Heurística](conceitos-avancados/heuristica.md)
+    - [Sistemas de Recomendação](conceitos-avancados/sist-recomendacao.md)
 - [Agradecimentos](agradecimentos.md)
