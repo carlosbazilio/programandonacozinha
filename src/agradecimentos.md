@@ -10,5 +10,7 @@ Ao colaborador Stevemberg Carvalho de Oliveira por ter sugerido uma interpretaç
 
 Ao aluno e amigo Peter Clayder, por ter se apropriado tão bem da analogia de frameworks, a ponto de me fazer elaborar melhor a abordagem inicial.
 
+Ao aluno Wagner Martins, por ter sugerido uma nova e melhor versão para analogia de ponteiros, pois a anterior quase não estava a altura de ser chamada de analogia. :)
+
 E vou ficar torcendo aqui para que mais sugestões sejam recebidas e esta seção fique bem grande! ;)
 
