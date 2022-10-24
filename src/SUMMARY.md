@@ -38,6 +38,7 @@
     - [Programação na Nuvem](conceitos-avancados/prog-nuvem.md)
     - [Programação Móvel](conceitos-avancados/prog-movel.md)
     - [Programação Web](conceitos-avancados/prog-web.md)
+    - [Virtualização](conceitos-avancados/virtualizacao.md)
     - [Frameworks](conceitos-avancados/frameworks.md)
     - [Banco de Dados](conceitos-avancados/bd.md)
     - [Desenvolvimento Ágil](conceitos-avancados/agil.md)
