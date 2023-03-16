@@ -23,6 +23,8 @@
     - [Abstração](conceitos-basicos/abstracao.md)
     - [Exceções](conceitos-basicos/excecoes.md)
     - [Alô Mundo](conceitos-basicos/alomundo.md)
+    - [Algoritmo](conceitos-basicos/algoritmo.md)
+    - [Ordenação](conceitos-basicos/ordenacao.md)
 - [Conceitos Avançados](conceitos-avancados.md)
     - [Paradigmas de Programação](conceitos-avancados/paradigmas.md)
         - [Programação Estruturada](conceitos-avancados/paradigmas/prog-estruturada.md)
