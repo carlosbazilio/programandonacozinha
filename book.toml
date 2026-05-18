@@ -13,3 +13,6 @@ git-repository-url = "https://github.com/carlosbazilio/programandonacozinha"
 git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/carlosbazilio/programandonacozinha/edit/main/{path}"
 site-url = "/programandonacozinha/"
+
+[preprocessor.quiz]
+fullscreen = true

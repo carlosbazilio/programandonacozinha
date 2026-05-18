@@ -93,3 +93,7 @@ Abaixo segue um resumo das analogias de base para este livro:
 
 Agora que introduzimos as analogias básicas e gerais entre Computação e Culinária, podemos iniciar a apresentação das analogias entre receitas e programas, as quais são o objetivo principal deste livro.
 
+Mas antes, um teste para verificar se captou a essência dessas analogias:
+
+{{#quiz quizzes/introducao.toml}}
+
