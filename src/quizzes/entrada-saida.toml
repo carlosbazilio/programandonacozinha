@@ -1,6 +1,6 @@
 [[questions]]
 type = "MultipleChoice"
-prompt.prompt = "O que *não* é exemplo de entrada ou saída numa lavanderia?"
+prompt.prompt = "O que caracteriza melhor uma entrada ou saída numa lavanderia?"
 prompt.distractors = [
   "Processo de enxágue.",
   "Secagem das roupas.",
