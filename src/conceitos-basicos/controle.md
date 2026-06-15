@@ -18,3 +18,5 @@ ou
 ~~~~~~~~
 
 Neste exemplo, a operação de mistura ocorre até que uma situação ocorra. Neste caso, a situação é o líquido passar a ter uma consistência em calda. 
+
+{{#quiz ../quizzes/controle.toml}}
