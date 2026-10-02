@@ -7,6 +7,7 @@
 - [Conceitos Básicos](./conceitos-basicos/README.md)
     - [Entrada e Saída](./conceitos-basicos/entrada-saida.md)
     - [Identificadores](conceitos-basicos/identificadores.md)
+    - [Variáveis e Constantes](conceitos-basicos/variaveis.md)
     - [Atribuição](conceitos-basicos/atribuicao.md)
     - [Estruturas de Controle](conceitos-basicos/controle.md)
     - [Estruturas de Dados](conceitos-basicos/estruturas.md)
